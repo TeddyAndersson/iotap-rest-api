@@ -5,7 +5,7 @@ To setup the project on your local machine there are a few things that you need 
 
 1. Install [Python version 2.7](https://www.python.org/downloads/)
 2. Install the Python module [Virtualenv](https://virtualenv.pypa.io/en/stable/) for usage of virtual enviroments *(Not necessary but recommended)*
-3. Clone this repository and [setup a virtual enviroment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) on your local machine
+3. Clone this repository and [setup a virtual enviroment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) in the project directory on your local machine.
 4. Install the needed Python Dependencies listed in the requierments.txt into your virtual enviorment.
 
 

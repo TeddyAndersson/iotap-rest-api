@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from grandiosa_site import app
+from app import app
 import os
 
 #run app on correct port
